@@ -1,0 +1,15 @@
+{
+  "chainId": 101,
+  "address": "6Q2TQJbXEagbxWSjo5gBebjYXQmVT59vv5JLBbxZvbAZ",
+  "symbol": "btd",
+  "name": "BIT GOLD",
+  "decimals": 6,
+  "logoURI": "https://gateway.pinata.cloud/ipfs/QmTmHPDm4dfZhmMY7K2hDVNZotQFCeFtaWTr4EZbqALVHg",
+  "tags": [
+    "utility-token"
+  ],
+  "extensions": {
+    "website": "https://bitgoldbest.com",
+    "description": "BitGold (BTD) is a utility token used across the BitGold ecosystem, including digital marketplaces, DEX trading, and merchant payments."
+  }
+}
