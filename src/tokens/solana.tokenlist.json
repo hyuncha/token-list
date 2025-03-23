@@ -4,9 +4,7 @@
   "symbol": "btd",
   "name": "BIT GOLD",
   "decimals": 6,
-
-  "logoURI": "https://raw.githubusercontent.com/<your_github_username>/token-list/main/assets/mainnet/6Q2TQJbXEagbxWSjo5gBebjYXQmVT59vv5JLBbxZvbAZ.png"
-
+"logoURI": "https://raw.githubusercontent.com/hyuncha/token-list/main/assets/mainnet/6Q2TQJbXEagbxWSjo5gBebjYXQmVT59vv5JLBbxZvbAZ.png"
   "tags": [
     "utility-token"
   ],
